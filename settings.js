@@ -10,17 +10,17 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : 𝘉𝘈𝘋-𝘠𝘖𝘝𝘐 - MD
+Creator : @darkmakerofc , @mr-𝘉𝘈𝘋-𝘠𝘖𝘝𝘐 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  OWNER_NUMBER: "94765799592",
+  SUDO_NUMBERS : "94773883257",
+  OWNER_NAME: "『 𝙼𝚁 𝙱𝙰𝙳-𝚈𝙾𝚅𝙸 』",
+  BOT_NAME : "𝘉𝘈𝘋-𝘠𝘖𝘝𝘐-𝘔𝘋",
+  ZUSYCO_FILE : "𝘉𝘈𝘋-𝘠𝘖𝘝𝘐-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
